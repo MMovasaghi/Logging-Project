@@ -268,9 +268,10 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
-./bin
-./obj
+
 # Cake - Uncomment if you are using it
 # tools/
 
 # End of https://www.toptal.com/developers/gitignore/api/aspnetcore
+
+.vscode/
